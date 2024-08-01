@@ -33,7 +33,7 @@ This project demonstrates an automatic gate system using an Arduino Uno, a servo
 
 ## Circuit Diagram
 
-![Circuit Diagram](path/to/circuit/diagram.png)
+![Circuit Diagram](https://github.com/GAT301-2024/AUTOMATIC_GATE_SYSTEM/blob/main/AUTOMATIC_GATE_SCHEMATIC.png)
 
 *Note: Replace `path/to/circuit/diagram.png` with the actual path to your circuit diagram image.*
 
