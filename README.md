@@ -1,7 +1,8 @@
 # Automatic Gate System
-> Reviewed and Evaluated by AJr.Allan
 
 This project demonstrates an automatic gate system using an Arduino Uno, a servo motor, an ultrasonic sensor, an LED, and a buzzer. The gate opens when an object (e.g., a car) is detected within a certain distance and closes when no object is detected. The LED and buzzer provide visual and audible alerts when the gate is opened or closed.
+
+> Reviewed and Evaluated by AJr.Allan
 
 ## Table of Contents
 
